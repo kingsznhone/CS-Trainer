@@ -1,0 +1,10 @@
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\bin\Debug\hacker.exe.config
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\bin\Debug\hacker.exe
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\bin\Debug\hacker.pdb
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\obj\Debug\hacker.csprojResolveAssemblyReference.cache
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\obj\Debug\hacker.csproj.CoreCompileInputs.cache
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\obj\Debug\hacker.exe
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\obj\Debug\hacker.pdb
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\obj\Debug\hacker.Graphic.resources
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\obj\Debug\hacker.csproj.GenerateResource.cache
+C:\Users\Kingsznhone\Source\Repos\hacker\hacker\obj\Debug\hacker.CShack.resources
